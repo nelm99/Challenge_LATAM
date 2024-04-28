@@ -14,7 +14,9 @@ class TestBatchPipeline(unittest.TestCase):
                 {
                     "OPERA": "Aerolineas Argentinas", 
                     "TIPOVUELO": "N", 
-                    "MES": 3
+                    "MES": 3,
+                    "Fecha-I": '2017-01-01 23:30:00',
+                    "Fecha-O": '2017-01-01 23:33:00'
                 }
             ]
         }
